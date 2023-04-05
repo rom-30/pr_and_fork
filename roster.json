@@ -1,15 +1,18 @@
 {
-  "namesake": {
-    "name": "Avgerou Virtual",
-    "imageUrl": "",
-    "materials": [
-      {
-        "type": "video",
-        "url": ""
-      }
-    ]
-  },
-  "students": [
-    {}
-  ]
+	"namesake": {
+		"name": "Avgerou Virtual",
+		"imageUrl": "",
+		"materials": [
+			{
+				"type": "video",
+				"url": ""
+			}
+		]
+	},
+	"students": [
+		{
+			"name": "Tom",
+			"github": "Tellur89"
+		}
+	]
 }
